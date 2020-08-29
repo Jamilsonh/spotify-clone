@@ -92,6 +92,15 @@ nav.navbar-transparente {
 	background-color: white;
 	color: black;
 }
+
+/* -- secao servico -- */
+#servicos {
+	background: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
 /* ===========================Tipografia========================*/
 h1 {
 	font-size: 100px;
