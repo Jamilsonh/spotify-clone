@@ -10,6 +10,6 @@ Site replicando a tela inicial do site Spotify para fins de estudos, seguindo o 
 
 ### 📋 Status Do Projeto
 
-Finalizado ✔️
+- Finalizado ✔️
 
 
